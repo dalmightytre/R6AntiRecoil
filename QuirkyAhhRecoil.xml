@@ -16,12 +16,27 @@
         <MouseMovementEvent>
           <Type>3</Type>
           <X>0</X>
-          <Y>1818</Y>
+          <Y>1518</Y>
+        </MouseMovementEvent>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>0</X>
+          <Y>1518</Y>
+        </MouseMovementEvent>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>0</X>
+          <Y>1527</Y>
         </MouseMovementEvent>
         <MouseMovementEvent>
           <Type>3</Type>
           <X>0</X>
           <Y>1818</Y>
+        </MouseMovementEvent>
+        <MouseMovementEvent>
+          <Type>3</Type>
+          <X>0</X>
+          <Y>1536</Y>
         </MouseMovementEvent>
         <MouseMovementEvent>
           <Type>3</Type>
@@ -29,33 +44,18 @@
           <Y>1827</Y>
         </MouseMovementEvent>
         <MouseMovementEvent>
-          <Type>3</Type>
           <X>0</X>
-          <Y>1818</Y>
-        </MouseMovementEvent>
-        <MouseMovementEvent>
-          <Type>3</Type>
-          <X>0</X>
-          <Y>1836</Y>
-        </MouseMovementEvent>
-        <MouseMovementEvent>
-          <Type>3</Type>
-          <X>0</X>
-          <Y>1827</Y>
-        </MouseMovementEvent>
-        <MouseMovementEvent>
-          <X>0</X>
-          <Y>1834</Y>
+          <Y>1534</Y>
         </MouseMovementEvent>
 		        <MouseMovementEvent>
           <Type>3</Type>
           <X>0</X>
-          <Y>1854</Y>
+          <Y>1554</Y>
         </MouseMovementEvent>
         <MouseMovementEvent>
           <Type>3</Type>
           <X>0</X>
-          <Y>1865</Y>
+          <Y>1565</Y>
         </MouseMovementEvent>
       </MouseMovement>
     </MacroEvent>
